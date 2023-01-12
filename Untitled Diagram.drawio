@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T11:50:32.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q5UArfTabqrns-k3R27n" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T12:19:43.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Yuun1-LeWiuKMgtkabuV" version="20.8.4" type="github">
   <diagram id="52RMOxdFqzdqMziotegz" name="Page-1">
-    <mxGraphModel dx="3777" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4314" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,19 +89,23 @@
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-39" value="TEDAŞ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Vy1m3zb4RnBDY1Kj0NJK-38">
           <mxGeometry x="0.0114" y="-3" relative="1" as="geometry">
-            <mxPoint x="-47" y="113" as="offset" />
+            <mxPoint x="-83" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1240" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-46" value="gftmmain" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Vy1m3zb4RnBDY1Kj0NJK-45">
           <mxGeometry x="-0.2" y="-6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-50" value="Default" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Vy1m3zb4RnBDY1Kj0NJK-49">
           <mxGeometry x="0.0667" y="-3" relative="1" as="geometry">
@@ -109,7 +113,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1430" y="200" />
+              <mxPoint x="-1430" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-52" value="TCS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Vy1m3zb4RnBDY1Kj0NJK-51">
           <mxGeometry x="0.1688" relative="1" as="geometry">
@@ -119,20 +128,62 @@
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="150" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1650" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-37" value="INVC.PCK_INVOICE_ENQUIRY.SP_ENQUIRY_INVOICE_TEDAS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="240" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-40" value="TCS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-40" target="Vy1m3zb4RnBDY1Kj0NJK-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-42" value="TCS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1300" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-40" value="SP_ENQUIRY_INVOICE_TCS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="400" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-30" target="Vy1m3zb4RnBDY1Kj0NJK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-48" value="TCS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1150" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-54" target="Vy1m3zb4RnBDY1Kj0NJK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-54" value="Decision" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1720" y="570" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-55" value="INVC.SocketMessages.TTMAINSocketMessage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-54">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-56" value="INVC.SocketMessages.TELSMAINSocketMessage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-54">
+          <mxGeometry y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-57" value="INVC.SocketMessages.AYCELLMAINSocketMessage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-54">
+          <mxGeometry y="90" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-58" target="Vy1m3zb4RnBDY1Kj0NJK-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="500" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-62" value="INVC.PCK_INVOICE_ENQUIRY.SP_ENQUIRY_INVOICE_TCS_PARSE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="740" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-64" target="Vy1m3zb4RnBDY1Kj0NJK-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-64" value="INVC.SocketMessages.Gnlfat_SocketMessage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1380" y="400" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-67" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;INVCExecuteCreateInvoicelForTurksatNativeComponent&lt;/span&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1425" y="500" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-69" target="Vy1m3zb4RnBDY1Kj0NJK-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-69" value="COMMValidateIBANComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="620" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-72" value="ESKİ" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="120" width="1240" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-70" value="INVC.PCK_INVOICE_ENQUIRY.SP_ENQUIRY_INVOICE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1125" y="750" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
