@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T12:19:43.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Yuun1-LeWiuKMgtkabuV" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T12:31:34.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hPw32a70Q4x-flyh1VRN" version="20.8.4" type="github">
   <diagram id="52RMOxdFqzdqMziotegz" name="Page-1">
     <mxGraphModel dx="4314" dy="2096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-14" target="Vy1m3zb4RnBDY1Kj0NJK-26">
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-14" target="Vy1m3zb4RnBDY1Kj0NJK-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-14" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-weight: normal; line-height: 16px;&quot;&gt;INVCEnquiryInvoiceComposition&lt;/div&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
@@ -40,48 +40,6 @@
               <mxPoint x="-60" y="340" />
               <mxPoint x="-60" y="200" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-26" value="Steps" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="-40" width="530" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-26">
-          <mxGeometry y="30" width="530" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-28" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-27">
-          <mxGeometry width="60" height="30" as="geometry">
-            <mxRectangle width="60" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-29" value="INVC.PCK_INVOICE_ENQUIRY.SP_GET_COMPANY_DETAIL" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-27">
-          <mxGeometry x="60" width="470" height="30" as="geometry">
-            <mxRectangle width="470" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-26">
-          <mxGeometry y="60" width="530" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-31" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-30">
-          <mxGeometry width="60" height="30" as="geometry">
-            <mxRectangle width="60" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-32" value="INVC.PCK_INVOICE_ENQUIRY.SP_CONTROL_CUTOFF" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-30">
-          <mxGeometry x="60" width="470" height="30" as="geometry">
-            <mxRectangle width="470" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-26">
-          <mxGeometry y="90" width="530" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-34" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-33">
-          <mxGeometry width="60" height="30" as="geometry">
-            <mxRectangle width="60" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-35" value="Value 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-33">
-          <mxGeometry x="60" width="470" height="30" as="geometry">
-            <mxRectangle width="470" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-36" target="Vy1m3zb4RnBDY1Kj0NJK-37">
@@ -137,9 +95,6 @@
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-40" value="SP_ENQUIRY_INVOICE_TCS" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1670" y="400" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-30" target="Vy1m3zb4RnBDY1Kj0NJK-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-54" target="Vy1m3zb4RnBDY1Kj0NJK-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -179,11 +134,28 @@
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-69" value="COMMValidateIBANComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1090" y="620" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-72" value="ESKİ" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-2020" y="120" width="1240" height="730" as="geometry" />
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;eski&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-2020" width="1240" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-73" value="INVC.PCK_INVOICE_ENQUIRY.SP_CONTROL_CUTOFF" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="Vy1m3zb4RnBDY1Kj0NJK-72">
+          <mxGeometry x="600" y="60" width="360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-70" value="INVC.PCK_INVOICE_ENQUIRY.SP_ENQUIRY_INVOICE" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1125" y="750" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-74" target="Vy1m3zb4RnBDY1Kj0NJK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-78" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;" vertex="1" connectable="0" parent="Vy1m3zb4RnBDY1Kj0NJK-77">
+          <mxGeometry x="-0.1042" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-74" value="INVC.PCK_INVOICE_ENQUIRY.SP_GET_COMPANY_DETAIL" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="-90" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-73" target="Vy1m3zb4RnBDY1Kj0NJK-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
