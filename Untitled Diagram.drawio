@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T17:46:04.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Bxi3K_E1ebA7ET2EkWG3" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T17:48:40.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7_QjwLghHpVYq1zmPvXB" version="20.8.4" type="github">
   <diagram id="52RMOxdFqzdqMziotegz" name="Page-1">
-    <mxGraphModel dx="3873" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4535" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,12 @@
           <mxGeometry x="160" y="-30" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-6" target="Vy1m3zb4RnBDY1Kj0NJK-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="50" />
+              <mxPoint x="320" y="50" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-weight: normal; line-height: 16px;&quot;&gt;VBFXGetCompaniesComposition&lt;/div&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="160" y="60" width="315" height="60" as="geometry" />
@@ -37,8 +42,8 @@
             <mxPoint x="180" y="340" as="sourcePoint" />
             <mxPoint x="-90" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="340" />
-              <mxPoint x="-60" y="200" />
+              <mxPoint x="-30" y="340" />
+              <mxPoint x="-30" y="-60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -224,7 +229,7 @@
           <mxGeometry x="-2350" y="1300" width="967" height="679" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-100" value="INVCExecuteInvoicePaymentComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1345" y="1790" width="385" height="60" as="geometry" />
+          <mxGeometry x="-1345" y="1790" width="425" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-103" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Helvetica;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-100" target="Vy1m3zb4RnBDY1Kj0NJK-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
