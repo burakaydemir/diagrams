@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T17:48:40.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7_QjwLghHpVYq1zmPvXB" version="20.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T18:53:07.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HD3q0OVjNXNs9WiT4JfY" version="20.8.4" type="github">
   <diagram id="52RMOxdFqzdqMziotegz" name="Page-1">
-    <mxGraphModel dx="4535" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4819" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
           <mxGeometry x="-2350" y="1300" width="967" height="679" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-100" value="INVCExecuteInvoicePaymentComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-1345" y="1790" width="425" height="60" as="geometry" />
+          <mxGeometry x="-1345" y="1790" width="395" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-103" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Helvetica;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-100" target="Vy1m3zb4RnBDY1Kj0NJK-99">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -252,6 +252,26 @@
         </mxCell>
         <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-104" value="INVCCalculateInvoiceCommissionComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1345" y="1700" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-106" target="Vy1m3zb4RnBDY1Kj0NJK-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-106" value="INVCGetCompanyCutOffComposition" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1345" y="1609.5" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-108">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-108" value="xNextUserControl" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="697" y="560" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=16;endArrow=classic;endFill=1;" edge="1" parent="1" source="Vy1m3zb4RnBDY1Kj0NJK-110" target="Vy1m3zb4RnBDY1Kj0NJK-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vy1m3zb4RnBDY1Kj0NJK-110" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px;&quot;&gt;CUSTGetCustomerExtendedInformationWithPhotoComposition&lt;/div&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="582" y="670" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
