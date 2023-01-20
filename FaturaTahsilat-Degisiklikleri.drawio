@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T21:52:30.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="vzIeRD8MFUAYYWVPr5bG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T21:58:46.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="zee4q6lEDHP006X3yXDL" type="github">
   <diagram id="QiCMICQTsx1_L7a8Ue5w" name="Page-1">
-    <mxGraphModel dx="1337" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,7 +36,7 @@
             <mxPoint x="620" y="875.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPqnhiS77X_eNPj8bADX-11" value="&lt;b&gt;Devam tıklandığında &quot;Fatura Sepeti&quot;nde ekli olan item&#39;lar için toplu olarak Confirm API çağrımı yapılarak masraf hesaplanacak&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tPqnhiS77X_eNPj8bADX-11" value="&lt;b&gt;Devam tıklandığında &quot;Fatura Sepeti&quot;nde ekli olan item&#39;lar için tek tek Confirm API çağrımı yapılarak masraf hesaplanacak&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="860" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPqnhiS77X_eNPj8bADX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tPqnhiS77X_eNPj8bADX-13">
@@ -44,7 +44,7 @@
             <mxPoint x="590" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPqnhiS77X_eNPj8bADX-13" value="&lt;b&gt;&quot;Fatura Sepeti&quot;nde bulunan işlemler için Execute API çağrımı yapılacak&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tPqnhiS77X_eNPj8bADX-13" value="&lt;b&gt;&quot;Fatura Sepeti&quot;nde bulunan item&#39;lar için tek tek Execute API çağrımı yapılacak&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1370" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tPqnhiS77X_eNPj8bADX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tPqnhiS77X_eNPj8bADX-15">
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tPqnhiS77X_eNPj8bADX-15" value="&lt;b&gt;Confirm API&#39;den dönen response&#39;a göre hesaplanan Toplam Masraf ve Detayı buraya set edilecek&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="tPqnhiS77X_eNPj8bADX-15" value="&lt;b&gt;Confirm API&#39;den dönen response&#39;a göre hesaplanan Toplam Masraf ve Detayı set edilecek&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="1280" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
