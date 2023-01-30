@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T11:40:09.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="0HZp45gvXNEUKY3HPLth" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T11:47:10.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="xm27c5FIpdr18eOHF27U" type="github">
   <diagram id="KAb09H1aaRv1wUn9QZgi" name="Page-1">
-    <mxGraphModel dx="1248" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2340" dy="1285" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,17 +16,17 @@
         <mxCell id="SjDv2KnS--hnq-5WUfop-3" value="GUNSONU.SP_NYM_OPERATIONS_1_VIRMAN_HAZIRLIK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#03031c;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-5" target="SjDv2KnS--hnq-5WUfop-9">
+        <mxCell id="SjDv2KnS--hnq-5WUfop-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#03031c;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-5" target="SjDv2KnS--hnq-5WUfop-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-5" value="SP_NYM_OPERATIONS_1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-7" value="&lt;a style=&quot;box-sizing: border-box; cursor: pointer; outline: transparent; text-decoration-line: none; transition: color 80ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s, background 80ms linear 0s; font-weight: bold; font-family: &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot; tabindex=&quot;0&quot; href=&quot;https://devops/Legacy_Collection/FinsoftC/_versionControl#path=%24%2FFinsoftC%2Fsrc%2Ftransfer%2Fsqload%2Fnymmain.pc&amp;amp;version=T&amp;amp;_a=contents&quot; class=&quot;fileName-highlight bolt-link&quot; aria-label=&quot;Navigate to nymmain.pc&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#03031c&quot;&gt;nymmain.pc&lt;/font&gt;&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="620" width="130" height="50" as="geometry" />
+        <mxCell id="SjDv2KnS--hnq-5WUfop-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#330000;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-7" target="SjDv2KnS--hnq-5WUfop-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-9" value="SP_HOST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="210" width="160" height="60" as="geometry" />
+        <mxCell id="SjDv2KnS--hnq-5WUfop-7" value="&lt;font style=&quot;box-sizing: border-box; cursor: pointer; outline: transparent; text-decoration-line: none; transition: color 80ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s, background 80ms linear 0s; font-weight: bold; font-family: &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot; color=&quot;#03031c&quot;&gt;nymmain.pc&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="215" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-12" target="SjDv2KnS--hnq-5WUfop-14">
           <mxGeometry relative="1" as="geometry" />
@@ -40,14 +40,23 @@
         <mxCell id="SjDv2KnS--hnq-5WUfop-14" value="GUNSONU..SP_NYM_OPERATIONS_2_TAHSILAT_VIRMAN&lt;b&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#03031c;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-16" target="SjDv2KnS--hnq-5WUfop-17">
+        <mxCell id="SjDv2KnS--hnq-5WUfop-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#330000;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-16" target="SjDv2KnS--hnq-5WUfop-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-16" value="SP_NYM_OPERATIONS_2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-17" value="SP_HOST" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="390" width="160" height="60" as="geometry" />
+        <mxCell id="SjDv2KnS--hnq-5WUfop-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#330000;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-20" target="SjDv2KnS--hnq-5WUfop-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SjDv2KnS--hnq-5WUfop-20" value="&lt;font style=&quot;box-sizing: border-box; cursor: pointer; outline: transparent; transition: color 80ms cubic-bezier(0.165, 0.84, 0.44, 1) 0s, background 80ms linear 0s; font-weight: bold; font-family: &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot; color=&quot;#330000&quot;&gt;nymrapor.pc&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="395" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SjDv2KnS--hnq-5WUfop-22" value="SP_SEGMENT_PREPARATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="930" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SjDv2KnS--hnq-5WUfop-24" value="SP_SEGMENT_NYM_GELIR_HAZIRLIK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="930" y="390" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
