@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T11:53:07.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="UkdVCX1u901_iT3z_Axh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T12:07:22.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="R5Ylx2YIutWz8mCOHZFi" type="github">
   <diagram id="KAb09H1aaRv1wUn9QZgi" name="Page-1">
     <mxGraphModel dx="985" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="SjDv2KnS--hnq-5WUfop-26" value="Genel Log Tablosu: bankdb.transferlog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="20" y="15" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-30" value="&lt;b&gt;LOG&lt;/b&gt;&lt;br&gt;PCK_AGDAS.SP_LOG&lt;br&gt;&amp;nbsp;ONLINEKURUMLOG" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;" vertex="1" parent="1">
+        <mxCell id="SjDv2KnS--hnq-5WUfop-30" value="&lt;b&gt;LOG&lt;/b&gt;&lt;br&gt;PCK_AGDAS.SP_LOG =&amp;gt;&lt;br&gt;&amp;nbsp;ONLINEKURUMLOG" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="930" y="100" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
