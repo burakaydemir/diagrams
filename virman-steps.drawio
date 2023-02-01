@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T13:15:42.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oyGzCHVyIVRIvCsNc1Bd" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T13:30:10.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rnY7KOq_FYUjakkMymWM" version="20.8.14" type="github">
   <diagram id="KAb09H1aaRv1wUn9QZgi" name="Page-1">
-    <mxGraphModel dx="1292" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
         <mxCell id="SjDv2KnS--hnq-5WUfop-24" value="SP_SEGMENT_NYM_GELIR_HAZIRLIK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="930" y="390" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SjDv2KnS--hnq-5WUfop-26" value="Genel Log Tablosu: bankdb.transferlog&lt;br&gt;Ortak Log Procedureleri:&amp;nbsp;PCK_AGDAS.SP_LOG,&amp;nbsp;&amp;nbsp;PK_ANKARASU_ONLINE.LOG" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#330000;" parent="1" vertex="1">
-          <mxGeometry x="20" y="10" width="460" height="40" as="geometry" />
+        <mxCell id="SjDv2KnS--hnq-5WUfop-26" value="Notlar:&lt;br&gt;&lt;br&gt;Genel Log Tablosu: bankdb.transferlog&lt;br&gt;Ortak Log Procedureleri:&amp;nbsp;PCK_AGDAS.SP_LOG,&amp;nbsp;&amp;nbsp;PK_ANKARASU_ONLINE.LOG =&amp;gt;&amp;nbsp;onlinekurumlog&#39;a insert atılıyor&lt;br&gt;&lt;br&gt;Email Gönderim: SP_NYM_ADIMLAR, SP_MAIL_MAIL&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#330000;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-25" width="640" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-30" value="&lt;b&gt;LOG&lt;/b&gt;&lt;br&gt;PCK_AGDAS.SP_LOG =&amp;gt;&lt;br&gt;&amp;nbsp;ONLINEKURUMLOG" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="930" y="100" width="150" height="60" as="geometry" />
