@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T15:01:44.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="yvkgl3_INVGlU3WqCDSB" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T15:04:55.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IK0aQIOLI3sTxbwkr6-_" version="20.8.14" type="github">
   <diagram id="KAb09H1aaRv1wUn9QZgi" name="Page-1">
     <mxGraphModel dx="1292" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,8 +118,14 @@
         <mxCell id="bCmSKT5gR-KvddqLJEM9-13" value="SP_SEGMENT_NYM2_KK_TEKTEM =&amp;gt;&amp;nbsp;&lt;br&gt;bankdb.tahkurumgelir_kk insert&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;bankdb.tahkurumgelir update&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Hazırlık Aşaması - Dynamic SQL)&lt;br&gt;&lt;br&gt;parametre tablosu:&amp;nbsp;tahnymprm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3240" y="182.5" width="240" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCmSKT5gR-KvddqLJEM9-15" target="bCmSKT5gR-KvddqLJEM9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bCmSKT5gR-KvddqLJEM9-15" value="SP_SEGMENT_NYM4_TEMP =&amp;gt;&amp;nbsp;bankdb.tahkurumgelir insert&lt;br&gt;(Hazırlık Aşaması - Dynamic SQL)&lt;br&gt;&lt;br&gt;parametre tablosu:&amp;nbsp;tahnymprm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3530" y="183" width="240" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-17" value="SP_SEGMENT_NYM4VZ_TEMP =&amp;gt;&amp;nbsp;bankdb.tahkurumgelir insert&lt;br&gt;(Hazırlık Aşaması - Dynamic SQL)&lt;br&gt;&lt;br&gt;parametre tablosu:&amp;nbsp;tahnymprm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="183" width="240" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
