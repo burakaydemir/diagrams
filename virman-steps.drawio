@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T15:05:13.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="s28TEvN706Y9kBwlh3Mj" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T15:23:16.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6zu8flROeEZCIznFI9XC" version="20.8.14" type="github">
   <diagram id="KAb09H1aaRv1wUn9QZgi" name="Page-1">
-    <mxGraphModel dx="2584" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-22" value="SP_SEGMENT_PREPARATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="930" y="190" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SjDv2KnS--hnq-5WUfop-24" target="bCmSKT5gR-KvddqLJEM9-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SjDv2KnS--hnq-5WUfop-24" value="SP_SEGMENT_NYM_GELIR_HAZIRLIK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="930" y="390" width="240" height="60" as="geometry" />
@@ -126,6 +129,15 @@
         </mxCell>
         <mxCell id="bCmSKT5gR-KvddqLJEM9-17" value="SP_SEGMENT_NYM4VZ_TEMP =&amp;gt;&amp;nbsp;bankdb.tahkurumgelir insert&lt;br&gt;(Hazırlık Aşaması - Dynamic SQL)&lt;br&gt;&lt;br&gt;parametre tablosu:&amp;nbsp;tahnymprm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3820" y="183" width="240" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bCmSKT5gR-KvddqLJEM9-19" target="bCmSKT5gR-KvddqLJEM9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-19" value="SP_SEGMENT_TAHSILATGELIR_HESP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bCmSKT5gR-KvddqLJEM9-21" value="SP_SEGMENT_TEMERKUZGELIR_HESAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="390" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
